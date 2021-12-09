@@ -1,1 +1,1 @@
-# ComparableEnum
+# Repository with Comparable and Enum.
